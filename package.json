@@ -1,5 +1,5 @@
 {
-  "name": "series-api",
+  "name": "to-do-api",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
