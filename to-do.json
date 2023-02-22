@@ -7,27 +7,42 @@
     },
     {
       "id": 1,
-      "name": "Cleaning",
+      "name": "Cleaning the room",
       "isDone": false
     },
     {
       "id": 2,
-      "name": "Organize the desk",
+      "name": "Cleaning the bathroom",
       "isDone": false
     },
     {
       "id": 3,
-      "name": "Take out the garbage",
+      "name": "Organize the desk",
       "isDone": false
     },
     {
       "id": 4,
-      "name": "Make the bed",
+      "name": "Take out the garbage",
       "isDone": false
     },
     {
       "id": 5,
+      "name": "Make the bed",
+      "isDone": false
+    },
+    {
+      "id": 6,
       "name": "Check e-mail",
+      "isDone": false
+    },
+    {
+      "id": 7,
+      "name": "Laundry",
+      "isDone": false
+    },
+    {
+      "id": 8,
+      "name": "Wash the car",
       "isDone": false
     }
   ]
