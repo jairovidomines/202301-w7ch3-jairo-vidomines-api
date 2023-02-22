@@ -2,7 +2,32 @@
   "to-do": [
     {
       "id": 0,
-      "name": "",
+      "name": "Washing dishes",
+      "isDone": false
+    },
+    {
+      "id": 1,
+      "name": "Cleaning",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "name": "Organize the desk",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "name": "Take out the garbage",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "name": "Make the bed",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "name": "Check e-mail",
       "isDone": false
     }
   ]
